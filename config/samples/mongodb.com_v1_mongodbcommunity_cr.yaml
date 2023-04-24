@@ -4,7 +4,7 @@ kind: MongoDBCommunity
 metadata:
   name: example-mongodb
 spec:
-  members: 3
+  members: 1
   type: ReplicaSet
   version: "6.0.5"
   security:
@@ -33,4 +33,4 @@ metadata:
   name: my-user-password
 type: Opaque
 stringData:
-  password: <your-password-here>
+  password: 99dfh89df0g4m0f8gfds9
